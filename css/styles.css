@@ -1,0 +1,45 @@
+body {
+  background-color: #1B2430;
+
+}
+
+input, textarea {
+  background-color: #D6D5A8;
+  color: #1B2430;
+}
+
+hr {
+  background-color: inherit;
+  border-color: #51557E;
+  border-style: none;
+  border-top-style: dotted;
+  width: 7%;
+  border-width: 7px;
+
+}
+h1 {
+  color: #D6D5A8;
+}
+
+h3, label {
+  color: #816797;
+}
+ p, table, li {
+   color: #D6D5A8;
+ }
+
+ a:link {
+   color: #D6D5A8;
+ }
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: grey;
+}
+
+a:active {
+  color: hotpink;
+}
